@@ -1,0 +1,1 @@
+# recursos-informaticos-equipo-AA
