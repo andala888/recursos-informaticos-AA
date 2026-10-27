@@ -31,3 +31,19 @@
 .desde {
     background-color: rgb(194, 28, 209);
 }
+
+body {
+    background-color: #f0f4f8;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #2563eb;
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
